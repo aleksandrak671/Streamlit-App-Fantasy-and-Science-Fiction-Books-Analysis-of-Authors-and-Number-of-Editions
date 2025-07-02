@@ -5,7 +5,7 @@ Streamlit Application with Data Analysis, Processing, and Visualization
 ---
 
 ## 🌐 Live App
-[Kliknij tutaj, aby uruchomić aplikację Streamlit](https://aleksandrak671-books-analysis.streamlit.app)
+[Click here to launch the Streamlit application](https://aleksandrak671-books-analysis.streamlit.app)
 
 ---
 
